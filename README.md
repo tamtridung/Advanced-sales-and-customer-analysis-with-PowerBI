@@ -1,4 +1,4 @@
-# Advanced-sales-and-customer-analysis-with-PowerBI
+# Advanced Sales and Customer retention analysis with PowerBI
 
 <p align="center">
   <img src="https://i.ibb.co/J57CyhP/PAGE1.png">
